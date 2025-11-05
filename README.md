@@ -1,2 +1,94 @@
-<h1 align="center">👋 Bienvenue sur mon profil GitHub !</h1>
-<h3 align="center">🚀 Développeur passionné par  • Créateur de solutions innovantes</h3>
+<h1 align="center">Hi 👋, I'm Claritot</h1>
+
+<p align="center">
+  I am a data scientist and analytics developper.
+</p>
+
+- 🌱 I’m currently learning **Cybersec and Kernel Systeme**. 
+
+<!--
+<a href="https://gitroll.io/profile/u4dNIQ47pZRVYDuimdWfkLsVGYbj2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/u4dNIQ47pZRVYDuimdWfkLsVGYbj2" alt="GitRoll Profile Badge"/></a>
+---
+-->
+<h3 align="left">Languages and Tools:</h3>
+
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-%231572B6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-%231572B6.svg?style=for-the-badge&logo=c&logoColor=white)
+<!--![Python](https://img.shields.io/badge/Python-%231572B6.svg?style=for-the-badge&logo=python&logoColor=white)-->
+<!--![Django](https://img.shields.io/badge/Django-%231572B6.svg?style=for-the-badge&logo=django&logoColor=white)-->
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23121011.svg?style=for-the-badge&logo=linux&logoColor=white)
+![Debian](https://img.shields.io/badge/debian-red?style=for-the-badge&logo=debian&logoColor=orange&color=darkred)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%23121011.svg?style=for-the-badge&logo=render&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-%23121011.svg?style=for-the-badge&logo=netlify&logoColor=white)
+
+
+<h3 align="left">📊 GitHub Stats:</h3>
+
+<p align="left">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=XYZ123-1&show_icons=true&locale=en" alt="XYZ123-1's GitHub stats" />
+</p>
+
+---
+
+<h3 align="left">🏆 Contribution Stats:</h3>
+
+<p align="left">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=XYZ123-1&count_private=true&include_all_commits=true" alt="GitHub Streak" />
+</p>
+
+
+---
+
+<h3 align="left">📈 Most Used Languages:</h3>
+<p align="left">
+  <img align="center" src="https://github-readme-stats-six-chi-52.vercel.app/api/top-langs?username=XYZ123-1&compact=true&show_icons=true&locale=en&layout=compact&hide_border=true&exclude_repo=github-readme-stats,XYZ123-1.github.io&langs_count=6&size_weight=0.5&count_weight=0.5&hide=html,css,scss,less,batchfile&theme=vue-dark&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=0d1117" alt="XYZ123-1's most used languages" /> 
+<!--  <img align="center" src="./top-langs.svg" alt="Heriiniiaina's most used languages" />  -->
+</p>
+<!--
+<p align="left">
+    <img align="center" src="https://api.githubtrends.io/user/svg/Heriiniiaina/langs?time_range=all_time&include_private=true" alt="Heriiniiaina's most used languages" />
+ <img align="center" src="https://api.githubtrends.io/user/svg/Heriiniiaina/langs?time_range=all_time&include_private=true&compact=true" alt="Heriiniiaina's most used languages" />
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Heriiniiaina&langs_count=8)
+</p>
+-->
+<!--
+![Langages les plus utilisés](https://api.githubtrends.io/user/svg/Heriiniiaina/langs?time_range=all_time&include_private=true)
+-->
+---
+<!--
+<h2 align="center">💻 My mini projects</h2>
+
+---
+-->
+<!--
+<h3 align="left">📈 Project 1: Note Management System</h3>
+
+
+
+<p align="center">
+  <strong>Note Management System</strong>Note Management System is a simple web app that allows users to create, delete, and update notes quickly. Perfect for organizing ideas and tasks with an easy-to-use interface. <br>
+
+  <a href="https://notesmemos.netlify.app/" target="_blank">
+    <strong>Click here to explore the live project!</strong>
+  </a>
+</p>
+-->
+---
+
+<!--
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://web.facebook.com/profile.php?id=100010172414862" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" alt="Facebook" height="30" width="40" />
+  </a>
+</p>
+-->
+---
